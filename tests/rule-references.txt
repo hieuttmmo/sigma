@@ -3462,3 +3462,12 @@ https://docs.microsoft.com/en-us/azure/role-based-access-control/resource-provid
 https://community.f5.com/t5/technical-forum/running-bash-commands-via-rest-api/td-p/272516
 https://www.sysaid.com/blog/service-desk/on-premise-software-security-vulnerability-notification
 https://github.com/AliBrTab/CVE-2023-46747-POC/tree/main
+https://github.com/ForceFledgling/CVE-2023-22518
+https://docs.microsoft.com/en-us/azure/role-based-access-control/resource-provider-operations
+https://www.huntress.com/blog/confluence-to-cerber-exploitation-of-cve-2023-22518-for-ransomware-deployment
+https://www.fireeye.com/blog/threat-research/2020/01/saigon-mysterious-ursnif-fork.html
+https://ngrok.com/blog-post/new-ngrok-domains
+https://www.fireeye.com/blog/threat-research/2020/03/apt41-initiates-global-intrusion-campaign-using-multiple-exploits.html
+https://posts.specterops.io/lateral-movement-scm-and-dll-hijacking-primer-d2f61e8ab992
+https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.management/get-eventlog?view=powershell-5.1
+https://thedfirreport.com/2023/10/30/netsupport-intrusion-results-in-domain-compromise/
